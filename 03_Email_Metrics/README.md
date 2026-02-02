@@ -1,6 +1,6 @@
 # 📧 Email Marketing Dashboard
 
-![Preview do Dashboard](dashboard.png)
+![Preview do Dashboard](dashboard_preview.png)
 
 ## 🔗 [Acesse o Dashboard Interativo no Tableau Public](https://public.tableau.com/views/EmailMetricsDashboard_17700433887740/EmailMetrics?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 

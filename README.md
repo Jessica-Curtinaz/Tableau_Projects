@@ -14,5 +14,11 @@ Este repositório reúne os projetos práticos desenvolvidos durante o curso de 
 - **Ferramentas:** SQL Joins, Tableau (KPIs, Rosca, Parâmetros).
 - [🔗 Ver Dashboard Interativo](https://public.tableau.com/app/profile/jessica.freitas5881/viz/SessionDashboard_17697908805240/SessionAnalysis)
 
+### 3. [Email Metrics Dashboard](./03_Email_Metrics)
+**Foco:** Marketing Digital e CRM.
+- **Métricas:** Open Rate, CTOR, Análise de Funil.
+- **Design:** Dark Mode UI.
+- [🔗 Ver Dashboard Interativo](https://public.tableau.com/views/EmailMetricsDashboard_17700433887740/EmailMetrics?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 *Desenvolvido por Jessica Curtinaz*
