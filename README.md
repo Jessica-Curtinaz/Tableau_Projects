@@ -20,5 +20,11 @@ Este repositório reúne os projetos práticos desenvolvidos durante o curso de 
 - **Design:** Dark Mode UI.
 - [🔗 Ver Dashboard Interativo](https://public.tableau.com/views/EmailMetricsDashboard_17700433887740/EmailMetrics?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+### 4. [Dynamic Business Performance](./04_Dynamic_Business_Dashboard)
+**Foco:** Cruzamento de Vendas, Marketing e Conversão de Registros utilizando SQL Avançado.
+- **Ferramentas:** CTEs, UNION ALL, Ações de Filtro Dinâmico, Eixo Duplo.
+- **Design:** Modern Dark Theme (Paleta Azul, Laranja e Roxo).
+- [🔗 Ver Dashboard Interativo](https://public.tableau.com/views/DynamicBusinessPerformanceDashboard/DynamicBusinessPerformanceDashboard?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 *Desenvolvido por Jessica Curtinaz*
